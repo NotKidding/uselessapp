@@ -35,7 +35,7 @@ To install and set up the project, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/yourusername/your-repo.git
+git clone (https://github.com/NotKidding/uselessapp.git)
 
 Navigate to the project directory:
 
@@ -52,17 +52,20 @@ flutter run
 
 
 Project Documentation
-Screenshots
+
+[Screenshots1](assets/ss1.jpg)
+[Screenshots2](assets/ss2.jpg)
 
 
 Diagrams
 
-![Workflow](Add link to workflow/architecture diagram)
+[View Workflow Diagram](assets/)
+
 This diagram shows the app flow and how notifications are triggered at random times.
 
 Project Demo
 Video
-[Add link to demo video]
+[Download Demo Video](assets/uselessproject.mp4)
 This video demonstrates the random notifications feature and app interface.
 
 Team Contributions
