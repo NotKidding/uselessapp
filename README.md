@@ -1,4 +1,4 @@
-COLDBOOT
+# COLDBOOT
 
 Team Details
 Team Name: COLDBOOT
@@ -8,7 +8,7 @@ Team Lead: K S Nandakumar
 Member 2: Adharsh K Sreekuttan
 Member 3: Gokulkrishna Vinod
 
-Project Description
+## Project Description
 An app that adds a fun, international twist to your daily routine! It sends notifications at random times throughout the day, each showing the current time in a randomly chosen country.
 
 The Problem (That Doesn't Exist)
