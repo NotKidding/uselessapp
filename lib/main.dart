@@ -82,6 +82,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       home: Scaffold(
+        backgroundColor: const Color.fromARGB(255, 244, 207, 74),
         body: Center(
           child: ElevatedButton(
             onPressed: sendTimeNotification,
